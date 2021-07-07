@@ -81,6 +81,12 @@
 # print(f"Down Payment: ${down_payment}")
 
 # # ------------------------------
-# # ----------Car Game------------
+# # --------Exercise 5------------
 # # ------------------------------
 
+prices = [10, 20, 10]
+total = 0
+
+for price in prices:
+    total += price
+print(total)
